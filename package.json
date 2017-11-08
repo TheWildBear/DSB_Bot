@@ -1,0 +1,34 @@
+{
+  "name": "dsb_bot",
+  "version": "1.0.0",
+  "description": "A Telegrambot for sending the timetables to students.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWildBear/DSB_Bot.git"
+  },
+  "keywords": [
+    "DSB",
+    "Telegram",
+    "Telegrambot"
+  ],
+  "author": "TheWildBear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheWildBear/DSB_Bot/issues"
+  },
+  "homepage": "https://github.com/TheWildBear/DSB_Bot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dsbapi": "^3.0.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "telebot": "^1.2.3",
+    "untis-api": "^0.1.3",
+    "util": "^0.10.3",
+    "website-scraper": "^3.3.2"
+  }
+}
