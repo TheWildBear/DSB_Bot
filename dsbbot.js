@@ -45,7 +45,7 @@ bot.on(['/gettimetable'], (msg) => {
 			var options = {
 					host: 'app.dsbcontrol.de',
 					port: 80,
-					path: '/link/to/htmfile/.htm''
+					path: '/link/to/htmfile/.htm'
 			};
 			
 			//var for html stuff
