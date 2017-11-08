@@ -1,7 +1,7 @@
 # DSB_Bot
-A Telegrambot for sending the timetables to students
+A Telegrambot for sending the timetables to students.
 
-At first change all the links so they fit to your school.
+At first change all the links so they fit to your school and insert the [token for the telegram bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot) and the dsb account info data.
 
 install all dependencies via: ```npm install```
 
